@@ -35,7 +35,7 @@ Mantener documentación adecuada del proyecto.
 - Eclipse IDE 
 - Git 
 - GitHub
-- 
+  
 **Arquitectura MVC** 
 El sistema está organizado siguiendo el patrón Modelo-Vista-Controlador: 
 
