@@ -45,3 +45,28 @@ Gestionar los datos del sistema.
 Implementar la lógica de negocio. 
 Realizar operaciones con archivos. 
 Administrar entidades del proyecto.
+
+**Gestión de Archivos**
+Se implementó almacenamiento mediante archivos para garantizar la persistencia de información. 
+Funciones principales: 
+-Lectura de datos. 
+-Escritura de datos. 
+-Actualización de información. 
+-Recuperación de registros almacenados. 
+
+**Calidad de Código**
+Se aplicaron principios de código limpio: 
+-Nombres descriptivos. 
+-Métodos con responsabilidad única. 
+-Organización por paquetes. 
+-Comentarios donde fue necesario. 
+-Estructura modular. 
+-Código legible y mantenible. 
+
+**Pruebas Unitarias y TDD**
+Se realizaron pruebas para verificar el correcto funcionamiento de los componentes principales del sistema.
+Aspectos evaluados: 
+-Validación de entradas. 
+-Funcionalidad de las clases. 
+-Comportamiento esperado de métodos críticos. 
+-Manejo correcto de excepciones.
