@@ -23,4 +23,3 @@ El presente proyecto consiste en el desarrollo de una versión en consola del ju
 6. En la consola de Eclipse vas a ver cómo se imprimen los datos de todos los contenidos.
 
 ## Cambios realizados
-
