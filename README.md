@@ -22,4 +22,11 @@ Además, el proyecto permitió comprender la importancia del código limpio, la 
 5. Dale clic derecho a ese archivo y elige **Run As > Java Application**.
 6. En la consola de Eclipse vas a ver cómo se imprimen los datos de todos los contenidos.
 
-## Cambios realizados
+## Objetivos
+Aplicar correctamente los principios de Programación Orientada a Objetos.
+Implementar una arquitectura basada en el patrón MVC.
+Gestionar excepciones de forma robusta.
+Utilizar archivos para almacenamiento y recuperación de información.
+Aplicar principios de código limpio.
+Realizar pruebas unitarias siguiendo conceptos de TDD.
+Mantener documentación adecuada del proyecto.
