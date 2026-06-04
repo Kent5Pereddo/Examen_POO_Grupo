@@ -10,6 +10,7 @@
 **Materia:** Programación Orientada a Objetos
 
 **Descripción del Proyecto** 
+
 Este proyecto fue desarrollado como parte de la asignatura Programación Orientada a 
 Objetos. Consiste en una aplicación implementada en Java utilizando el patrón de diseño 
 Modelo-Vista-Controlador (MVC) para garantizar una adecuada separación de 
@@ -20,6 +21,7 @@ Objetos, el manejo de excepciones, la gestión de archivos, las pruebas unitaria
 prácticas de desarrollo de software. 
 
 **Objetivos**
+
 Aplicar correctamente los principios de Programación Orientada a Objetos. 
 Implementar una arquitectura basada en el patrón MVC. 
 Gestionar excepciones de forma robusta. 
