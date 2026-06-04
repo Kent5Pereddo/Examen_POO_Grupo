@@ -6,7 +6,9 @@ El presente proyecto consiste en el desarrollo de una versión en consola del ju
 - Kent Steven Pereddo Torres
 - Stefani Nicole Mendoza Cusme
 - Emerson Steven Pujota Gualavisi
+  
 **Universidad:** Universidad Politécnica Salesiana (UPS)
+
 **Materia:** Programación Orientada a Objetos
 
 ## ¿De qué trata este proyecto?
