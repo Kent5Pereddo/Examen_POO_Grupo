@@ -10,6 +10,9 @@ El presente proyecto consiste en el desarrollo de una versión en consola del ju
 **Materia:** Programación Orientada a Objetos
 
 ## ¿De qué trata este proyecto?
+El presente proyecto consiste en el desarrollo de una versión en consola del juego Buscaminas utilizando Java y Programación Orientada a Objetos.
+El objetivo principal fue aplicar conceptos importantes aprendidos durante el semestre como encapsulamiento, clases, objetos, manejo de excepciones, serialización de datos y organización del código mediante el patrón MVC.
+Además, el proyecto permitió comprender la importancia del código limpio, la separación de responsabilidades y la correcta organización de paquetes dentro de una aplicación real.
   
 
 ## Cómo ejecutar el proyecto
