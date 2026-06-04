@@ -23,5 +23,4 @@ Además, el proyecto permitió comprender la importancia del código limpio, la 
 6. En la consola de Eclipse vas a ver cómo se imprimen los datos de todos los contenidos.
 
 ## Cambios realizados
-pan con queso  
 pongan 10
