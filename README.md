@@ -9,24 +9,37 @@
 
 **Materia:** Programación Orientada a Objetos
 
-## ¿De qué trata este proyecto?
-El presente proyecto consiste en el desarrollo de una versión en consola del juego Buscaminas utilizando Java y Programación Orientada a Objetos.
-El objetivo principal fue aplicar conceptos importantes aprendidos durante el semestre como encapsulamiento, clases, objetos, manejo de excepciones, serialización de datos y organización del código mediante el patrón MVC.
-Además, el proyecto permitió comprender la importancia del código limpio, la separación de responsabilidades y la correcta organización de paquetes dentro de una aplicación real.
+**Descripción del Proyecto** 
+Este proyecto fue desarrollado como parte de la asignatura Programación Orientada a 
+Objetos. Consiste en una aplicación implementada en Java utilizando el patrón de diseño 
+Modelo-Vista-Controlador (MVC) para garantizar una adecuada separación de 
+responsabilidades y facilitar el mantenimiento del código. 
 
-## Cómo ejecutar el proyecto
-1. Clona este repositorio o descarga la carpeta en tu computadora.
-2. Abre Eclipse y ve a `File > Import > General > Existing Projects into Workspace`.
-3. Selecciona la carpeta `CODIGO LIMPIO`.
-4. Busca el archivo principal en la ruta `src/poo/PruebaAudioVisual.java`.
-5. Dale clic derecho a ese archivo y elige **Run As > Java Application**.
-6. En la consola de Eclipse vas a ver cómo se imprimen los datos de todos los contenidos.
+El objetivo principal es aplicar los conceptos fundamentales de la Programación Orientada a 
+Objetos, el manejo de excepciones, la gestión de archivos, las pruebas unitarias y las buenas 
+prácticas de desarrollo de software. 
 
-## Objetivos
-1. Aplicar correctamente los principios de Programación Orientada a Objetos.
-2. Implementar una arquitectura basada en el patrón MVC.
-3. Gestionar excepciones de forma robusta.
-4. Utilizar archivos para almacenamiento y recuperación de información.
-5. Aplicar principios de código limpio.
-6. Realizar pruebas unitarias siguiendo conceptos de TDD.
-7. Mantener documentación adecuada del proyecto.
+**Objetivos**
+Aplicar correctamente los principios de Programación Orientada a Objetos. 
+Implementar una arquitectura basada en el patrón MVC. 
+Gestionar excepciones de forma robusta. 
+Utilizar archivos para almacenamiento y recuperación de información. 
+Aplicar principios de código limpio. 
+Realizar pruebas unitarias siguiendo conceptos de TDD. 
+Mantener documentación adecuada del proyecto. 
+
+**Tecnologías Utilizadas** 
+- Java 
+- Eclipse IDE 
+- Git 
+- GitHub
+- 
+**Arquitectura MVC** 
+El sistema está organizado siguiendo el patrón Modelo-Vista-Controlador: 
+
+**Modelo (Model)** 
+Responsable de: 
+Gestionar los datos del sistema. 
+Implementar la lógica de negocio. 
+Realizar operaciones con archivos. 
+Administrar entidades del proyecto.
