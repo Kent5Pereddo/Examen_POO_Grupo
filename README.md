@@ -101,7 +101,9 @@ Aspectos evaluados:
 - Funcionalidad de las clases. 
 - Comportamiento esperado de métodos críticos. 
 - Manejo correcto de excepciones.
-Estructura del Proyecto
+
+**Estructura del Proyecto**
+
 src/
 │
 ├── model/
@@ -110,20 +112,26 @@ src/
 ├── exceptions/
 ├── files/
 └── tests/
-Instrucciones de Ejecución
+
+**Instrucciones de Ejecución**
+
 Clonar el repositorio.
 Abrir el proyecto en Eclipse.
 Importar como proyecto Java existente.
 Ejecutar la clase principal del sistema.
 Utilizar el menú o interfaz disponible para interactuar con la aplicación.
-Repositorio GitHub
+
+**Repositorio GitHub**
+
 El control de versiones se realizó utilizando Git y GitHub.
 Funciones utilizadas:
 Commits periódicos.
 Seguimiento de cambios.
 Gestión de versiones.
 Trabajo colaborativo mediante repositorio remoto.
-Conclusiones
+
+**Conclusiones**
+
 Este proyecto permitió aplicar de manera práctica los conceptos de Programación Orientada a
 Objetos, el patrón MVC, el manejo de excepciones, la gestión de archivos y las buenas
 prácticas de desarrollo de software. Además, fortaleció el uso de herramientas profesionales
