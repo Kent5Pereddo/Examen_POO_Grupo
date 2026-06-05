@@ -71,13 +71,13 @@ Aspectos evaluados:
 -Comportamiento esperado de métodos críticos. 
 -Manejo correcto de excepciones.
 
-**(View) **
+**(View)**
 Responsable de: 
 Mostrar la información al usuario. 
 Gestionar la interacción con el usuario. 
 Presentar los resultados de las operaciones. 
 
-**Controlador (Controller) **
+**Controlador (Controller)**
 Responsable de: 
 Recibir solicitudes de la vista. 
 Coordinar las operaciones del modelo. 
