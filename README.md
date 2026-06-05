@@ -70,3 +70,34 @@ Aspectos evaluados:
 -Funcionalidad de las clases. 
 -Comportamiento esperado de métodos críticos. 
 -Manejo correcto de excepciones.
+
+**(View) **
+Responsable de: 
+Mostrar la información al usuario. 
+Gestionar la interacción con el usuario. 
+Presentar los resultados de las operaciones. 
+
+**Controlador (Controller) **
+Responsable de: 
+Recibir solicitudes de la vista. 
+Coordinar las operaciones del modelo. 
+Controlar el flujo de ejecución del sistema. 
+ 
+**Implementación de Conceptos POO**
+Durante el desarrollo se aplicaron los siguientes conceptos: 
+Clases y objetos. 
+Encapsulamiento. 
+Constructores. 
+Métodos. 
+Herencia (si aplica). 
+Polimorfismo (si aplica). 
+Abstracción. 
+Separación de responsabilidades. 
+ 
+**Manejo de Excepciones** 
+El sistema incorpora manejo de errores mediante excepciones para evitar fallos inesperados. 
+Ejemplos: 
+Validación de datos de entrada. 
+Manejo de errores de lectura y escritura de archivos. 
+Control de operaciones inválidas. 
+Captura y tratamiento de excepciones personalizadas. 
